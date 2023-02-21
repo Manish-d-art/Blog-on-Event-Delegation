@@ -170,7 +170,7 @@ These different states are very important to understand because when we use Prom
 **Consuming Promises -**
 
 ```javascript
-const getCountryData = function( country ) {
+const getCountryData = function() {
     fetch('https://restcountries.com/v2/all').
         then(function(response) {
             return response.json();
