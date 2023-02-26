@@ -1,5 +1,5 @@
 <h1>Event Delegation</h1>
-<h2>What is event delegation in JavaScript, why is it crucial ??🔥👀</h2> :[https://manish-d-art-blogs.hashnode.dev/what-is-event-delegation-in-javascript-why-is-it-crucial](https://manish-d-art-blogs.hashnode.dev/what-is-event-delegation-in-javascript-why-is-it-crucial)
+<h2>What is event delegation in JavaScript, why is it crucial ??🔥👀</h2> :[https://manish-d-art-blogs.hashnode.dev/what-is-event-delegation-in-javascript-why-is-it-crucial] (https://manish-d-art-blogs.hashnode.dev/what-is-event-delegation-in-javascript-why-is-it-crucial)
 
 
 
