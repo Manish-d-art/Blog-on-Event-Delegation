@@ -2,7 +2,7 @@
 
 Hey there!🙋‍♂️ Thanks for joining me for the sequel of my blog. If you missed my previous post, no worries at all! You can simply visit this link to catch up before we continue on our journey together. I'm excited to have you here, so let's dive right in!
 
-[Here's the link to the first part of our sequel, so you can easily find it and catch up before we move forward together. Happy reading :)](https://manish-d-art-blogs.hashnode.dev/mastering-asynchronous-javascript-with-promises-asyncawait-and-ajax-a-guide-to-building-fast-and-efficient-web-applications)
+[Here's the link to the first part of my sequel, so you can easily find it and catch up before we move forward together. Happy reading :)](https://manish-d-art-blogs.hashnode.dev/mastering-asynchronous-javascript-with-promises-asyncawait-and-ajax-a-guide-to-building-fast-and-efficient-web-applications)
 
 let's continue our Asynchronous JavaScript💥
 
