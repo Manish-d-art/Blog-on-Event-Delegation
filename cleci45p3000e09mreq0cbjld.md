@@ -188,3 +188,5 @@ the fetch statement is returning a promise and then we handled that promise usin
 Using Asynchronous JavaScript is essential for creating contemporary, effective, and user-friendly online applications, it may be concluded. Developers can write code that can execute numerous tasks concurrently without preventing the execution of other programmes thanks to asynchronous programming. Because users may interact with the UI while the JavaScript code is running in the background, this makes web pages faster and more responsive.
 
 That's all I've got, guys. Meet you in my next blog, where we will discuss how to handle rejected promises, async/await, error handling, running promises in parallel, and many other topics.
+
+[Here is the last and ending part of my sequel. Happy reading🙂](https://manish-d-art-blogs.hashnode.dev/mastering-asynchronous-javascript-with-promises-asyncawait-and-ajax-a-guide-to-building-fast-and-efficient-web-applications-1)
