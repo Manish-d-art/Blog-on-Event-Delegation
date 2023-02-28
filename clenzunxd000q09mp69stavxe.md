@@ -66,7 +66,7 @@ now, reload the page and again lose the connection and do the request.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677476825250/d65d46cd-36ec-4ee1-b8a3-956321667281.png align="center")
 
-**Great job!**👏 You successfully handled the error by using an alert function to notify the user about the issue. As a result, the error message that was previously displayed in the console is no longer there because you caught the error using the **alert**.
+\*\*Great job!\*\*👏 You successfully handled the error by using an alert function to notify the user about the issue. As a result, the error message that was previously displayed in the console is no longer there because you caught the error using the **alert**.
 
 **<mark>note:-</mark> we can chain the Promises and so we will need more no. of callback functions for the handling of errors.**
 
@@ -98,7 +98,7 @@ But still, even though there is a big problem with this request, the `fetch()` f
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677483949572/a34fbb8a-b3fd-4587-8232-df660ab3a167.png align="center")
 
-Now in the above picture, you can see that the **<mark>"ok"</mark>** property is set to **<mark>false</mark>** and the reason for that is the s**<mark>tatus code "404"</mark>**. But when a request goes well, the **<mark>"ok"</mark>** is **<mark>true</mark>** and the **<mark>status code is "200.</mark>**
+Now in the above picture, you can see that the **<mark>"ok"</mark>** property is set to **<mark>false</mark>** and the reason for that is the s\*\*<mark>tatus code "404"</mark>\*\*. But when a request goes well, the **<mark>"ok"</mark>** is **<mark>true</mark>** and the **<mark>status code is "200.</mark>**
 
 And now, we can reject Promise manually when the "ok" property is false.
 
@@ -202,7 +202,7 @@ We also use the `.catch()` method to specify what should happen if the Promise i
 
 So basically, we use the `.then()` and `.catch()` methods to handle the result of the Promise once it's finished. If the Promise is resolved successfully, we execute the function passed to `.then()`. If it's rejected, we execute the function passed to `.catch()`.
 
-**Now finally there is also a way to create a very easily <mark> fulfilled or a rejected Promise</mark> immediately:-**
+**Now finally there is also a way to create a very easily <mark>fulfilled or a rejected Promise</mark> immediately:-**
 
 We can create a Promise that is already fulfilled or already rejected using two static methods: `Promise.resolve()` and `Promise.reject()`.
 
@@ -409,4 +409,4 @@ One important thing to keep in mind when working with asynchronous JavaScript is
 
 Overall, mastering asynchronous JavaScript is an important skill for any web developer and can help you create more responsive, efficient, and user-friendly web applications.
 
-I hope you enjoyed reading this article as much as I enjoyed writing it✒️. Thanks for sticking around until the end🙂. You're awesome!💥 take care and happy reading!
+*<mark>I hope you enjoyed reading this article as much as I enjoyed writing it✒️. Thanks for sticking around until the end🙂. You're awesome!💥 take care and happy reading!</mark>*
