@@ -246,7 +246,7 @@ here is a look of the await statement👇
 
 And this statement is going to return a Promise. one more thing is that the "**await**" keyword in this statement is waiting for the result of this Promise. And so basically await will stop execution at this point of the function until the Promise is fulfilled. <mark>Now coming to your question isn't stopping the code</mark>, blocking the execution? And the answer is **NO** because stopping execution in an async function is not a problem because the function is running in the background Asynchronously and this is the reason it's not blocking the main thread of execution. And so it's not blocking the call stack.
 
-This is the special feature of await, which makes our code appear to be typical synchronous code even if everything is actually synchronous in the background.
+This is the special feature of await, which makes our code appear to be typical synchronous code even if everything is actually asynchronous in the background.
 
 Now as soon as the Promise is resolved then the value of this whole await expression that we have here is going to be the resolved value of the Promise. So, we can store it in a variable.
 
