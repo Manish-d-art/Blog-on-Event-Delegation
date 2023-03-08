@@ -106,7 +106,7 @@ But still, even though there is a big problem with this request, the `fetch()` f
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677483949572/a34fbb8a-b3fd-4587-8232-df660ab3a167.png align="center")
 
-Now in the above picture, you can see that the **<mark>"ok"</mark>** property is set to **<mark>false</mark>** and the reason for that is the s\*\*<mark>tatus code "404"</mark>\*\*. But when a request goes well, the **<mark>"ok"</mark>** is **<mark>true</mark>** and the **<mark>status code is "200.</mark>**
+Now in the above picture, you can see that the **<mark>"ok"</mark>** property is set to **<mark>false</mark>** and the reason for that is the \*\*s<mark>tatus code "404"</mark>\*\*. But when a request goes well, the **<mark>"ok"</mark>** is **<mark>true</mark>** and the **<mark>status code is "200.</mark>**
 
 And now, we can reject Promise manually when the "ok" property is false.
 
