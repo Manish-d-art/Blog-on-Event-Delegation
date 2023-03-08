@@ -1,8 +1,16 @@
-# "Mastering Asynchronous JavaScript with Promises, Async/Await and AJAX: A Guide to Building Fast and Efficient Web Applications"
+---
+title: ""Mastering Asynchronous JavaScript with Promises, Async/Await and AJAX: A Guide to Building Fast and Efficient Web Applications""
+datePublished: Tue Feb 28 2023 08:35:38 GMT+0000 (Coordinated Universal Time)
+cuid: clenzunxd000q09mp69stavxe
+slug: mastering-asynchronous-javascript-with-promises-asyncawait-and-ajax-a-guide-to-building-fast-and-efficient-web-applications-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677469509561/d77f34e7-d084-4dbb-840d-3dd191823cb1.png
+tags: javascript, web-development, frontend-development, asynchronous-javascript
+
+---
 
 Hey there!🙋‍♂️ Thanks for joining me for the sequel of my blog. If you missed my previous post, no worries at all! You can simply visit this link to catch up before we continue on our journey together. I'm excited to have you here, so let's dive right in!
 
-[Here's the link to the first part of my sequel, so you can easily find it and catch up before we move forward together. Happy reading :)](https://manish-d-art-blogs.hashnode.dev/mastering-asynchronous-javascript-with-promises-asyncawait-and-ajax-a-guide-to-building-fast-and-efficient-web-applications)
+In case you have missed the first sequel🫡 [Here's the link to the first part of my sequel, so you can easily find it and catch up before we move forward together. Happy reading :)](https://manish-d-art-blogs.hashnode.dev/mastering-asynchronous-javascript-with-promises-asyncawait-and-ajax-a-guide-to-building-fast-and-efficient-web-applications)
 
 let's continue our Asynchronous JavaScript💥
 
