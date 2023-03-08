@@ -117,7 +117,7 @@ const getCountryData = function() {
     fetch('https://restcountries.com/v2/all12').
         then(response =>{
           console.log(response);
-          if(!response.ok) throw new Error(`something went wrong      (${response.status})`);
+          if(!response.ok) throw new Error(`something went wrong (${response.status})`);
           return response.json();
         }).
         then(data => { console.log(data);
