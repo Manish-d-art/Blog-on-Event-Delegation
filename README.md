@@ -10,3 +10,8 @@
 
 <h1>Asynchronous JavaScript (part-2)</h1>
 <h2>Mastering Asynchronous JavaScript with Promises, Async/Await and AJAX: A Guide to Building Fast and Efficient Web Applications </h2> [https://manish-d-art-blogs.hashnode.dev/mastering-asynchronous-javascript-with-promises-asyncawait-and-ajax-a-guide-to-building-fast-and-efficient-web-applications-1] (https://manish-d-art-blogs.hashnode.dev/mastering-asynchronous-javascript-with-promises-asyncawait-and-ajax-a-guide-to-building-fast-and-efficient-web-applications-1)
+
+
+
+<h1>Destructuring in JavaScript</h1>
+<h2>Destructuring in JavaScript: "Simplifying Access to Object and Array Values"</h2> : [https://manish-d-art-blogs.hashnode.dev/destructuring-in-javascript-simplifying-access-to-object-and-array-values] (https://manish-d-art-blogs.hashnode.dev/destructuring-in-javascript-simplifying-access-to-object-and-array-values)
