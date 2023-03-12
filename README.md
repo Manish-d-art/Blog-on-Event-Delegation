@@ -14,4 +14,8 @@
 
 
 <h1>Destructuring in JavaScript</h1>
-<h2>Destructuring in JavaScript: "Simplifying Access to Object and Array Values"</h2> : [https://manish-d-art-blogs.hashnode.dev/destructuring-in-javascript-simplifying-access-to-object-and-array-values] (https://manish-d-art-blogs.hashnode.dev/destructuring-in-javascript-simplifying-access-to-object-and-array-values)
+<h2>Destructuring in JavaScript: "Simplifying Access to Object and Array Values"</h2> [https://manish-d-art-blogs.hashnode.dev/destructuring-in-javascript-simplifying-access-to-object-and-array-values] (https://manish-d-art-blogs.hashnode.dev/destructuring-in-javascript-simplifying-access-to-object-and-array-values)
+
+
+<h1>Spread and Rest operators in JavaScript</h1>
+<h2>Spread and Rest operators in JavaScript: "Unlocking power of JavaScript"<.h2> [https://manish-d-art-blogs.hashnode.dev/spread-and-rest-operators-in-javascript-unlocking-power-of-javascript] (https://manish-d-art-blogs.hashnode.dev/spread-and-rest-operators-in-javascript-unlocking-power-of-javascript)
