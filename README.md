@@ -1,3 +1,4 @@
+<h1>Hashnode</h1>
 <h1>Event Delegation</h1>
 <h2>What is event delegation in JavaScript, why is it crucial ??🔥👀</h2> :[https://manishdevelops-blogs.hashnode.dev/what-is-event-delegation-in-javascript-why-is-it-crucial] (https://manishdevelops-blogs.hashnode.dev/what-is-event-delegation-in-javascript-why-is-it-crucial)
 
@@ -19,3 +20,7 @@
 
 <h1>Spread and Rest operators in JavaScript</h1>
 <h2>Spread and Rest operators in JavaScript: "Unlocking power of JavaScript"<.h2> [https://manishdevelops-blogs.hashnode.dev/spread-and-rest-operators-in-javascript-unlocking-power-of-javascript] (https://manishdevelops-blogs.hashnode.dev/spread-and-rest-operators-in-javascript-unlocking-power-of-javascript)
+  
+<h1>Dev Community </h1>
+<h1>async v/s defer attributes of Script in JavaScript</h1>
+<h2>async v/s defer attributes of Script in JavaScript<.h2> [https://dev.to/manishdevelops/learn-async-vs-defer-attributes-of-javascript-in-2-minutes-28c6] (https://dev.to/manishdevelops/learn-async-vs-defer-attributes-of-javascript-in-2-minutes-28c6)
